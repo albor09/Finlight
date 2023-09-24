@@ -1,0 +1,88 @@
+#HOME
+hello: "Hello, {}"
+
+#DATERANGES
+current-day: "Current day"
+current-week: "Current week"
+current-month: "Current month"
+current-year: "Current year"
+
+#MONTHS
+january: January
+february: February
+march: March
+april: April
+may: May
+june: June
+july: July
+august: August
+september: September
+october: October
+november: November
+december: December
+
+#TRANSACTION
+transaction-pl:
+  zero: "{} transactions"
+  one: "{} transaction"
+  two: "{} transactions"
+  other: "{} transactions"
+
+transaction: Transaction
+
+expense: Expenses
+income: Incomes
+
+#SETTINGS
+settings: "Settings"
+name: Name
+currency: Currency
+categories: Categories
+language: Language
+theme: Theme
+
+#ADD
+add-category: "Add category"
+add-transaction: "Add transaction"
+
+#ADD_CATEGORY
+category-name: "Category name"
+category-color: "Category color"
+
+#ADD_TRANSACTION
+value: Value
+amount: Amount
+category: Category
+
+#START
+start-tl: "Track your expenses & incomes"
+start-ds: Transparent management of your finances is in your hands. Track your incomes and expenses, plan your budget and reach your financial goals with ease.
+start-cur-cannot-changed: Cannot be changed after initial selection.
+
+how-call: "How can I call you?"
+choose-cur: "Choose currency"
+
+#MISC
+add: Add
+save: Save
+continue: Continue
+current: Current
+no-categories: You do not have categories yet
+
+week: Week
+month: Month
+year: Year
+day: day
+
+dark: Dark
+light: Light
+
+#STARTCATEGORIES
+groceries: Groceries
+taxi: Taxi
+entertainment: Entertainment
+personal-care: Personal care
+
+#TIPS
+tip-one: Double tap to switch between expenses and incomes
+tip-two: Choose any range you want

@@ -1,0 +1,88 @@
+#HOME
+hello: "Привет, {}"
+
+#DATERANGES
+current-day: "Текущий день"
+current-week: "Текущая неделя"
+current-month: "Текущий месяц"
+current-year: "Текущий год"
+
+#MONTHS
+january: Январь
+february: Февраль
+march: Март
+april: Апрель
+may: Май
+june: Июнь
+july: Июль
+august: Август
+september: Сентябрь
+october: Октябрь
+november: Ноябрь
+december: Декабрь
+
+#TRANSACTION
+transaction-pl:
+  zero: "{} транзакций"
+  one: "{} транзакция"
+  two: "{} транзакции"
+  other: "{} транзакции"
+
+transaction: Транзакция
+
+expense: Расходы
+income: Доходы
+
+#SETTINGS
+settings: "Настройки"
+name: Имя
+currency: Валюта
+categories: Категории
+language: Язык
+theme: Тема
+
+#ADD
+add-category: "Добавть категорию"
+add-transaction: "Добавить транзакцию"
+
+#ADD_CATEGORY
+category-name: "Имя категории"
+category-color: "Цвет категории"
+
+#ADD_TRANSACTION
+value: Значение
+amount: Сумма
+category: Категория
+
+#START
+start-tl: Отслеживайте свои расходы и доходы
+start-ds: Прозрачное управление вашими финансами в ваших руках. Отслеживайте свои доходы и расходы, планируйте свой бюджет и с легкостью достигайте своих финансовых целей.
+start-cur-cannot-changed: Нельзя изменить после начального выбора.
+
+how-call: "Как к вам обращаться?"
+choose-cur: "Выберите валюту"
+
+#MISC
+add: Добавить
+save: Сохранить
+continue: Продолжить
+current: Текущий
+no-categories: "У вас еще нет категорий"
+
+week: Неделя
+month: Месяц
+year: Год
+day: день
+
+dark: Темная
+light: Светлая
+
+#STARTCATEGORIES
+groceries: Продукты
+taxi: Такси
+entertainment: Развлечения
+personal-care: Забота о себе
+
+#TIPS
+tip-one: Нажмите дважды, чтобы переключаться между расходами и доходами
+tip-two: Выберите любой временной промежуток
