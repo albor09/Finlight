@@ -5,3 +5,7 @@
 Simple expense&income tracking app.
 
 > for charts used [smooth_chart](https://github.com/albor09/smooth_chart).
+
+## Download
+
+- [Google play](https://play.google.com/store/apps/details?id=com.hypersimple.finlight)
