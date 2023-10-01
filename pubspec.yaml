@@ -33,7 +33,7 @@ dependencies:
 
   smooth_chart:
     git:
-      url: "C:/Users/albor/dev/Flutter/smooth_chart"
+      url: "https://github.com/albor09/smooth_chart"
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
